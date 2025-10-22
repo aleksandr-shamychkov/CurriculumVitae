@@ -63,6 +63,7 @@
 
     .persoonlijke-info {
         display: inline-flex;
+        background-color: rgba(128, 128, 128, 0.1);
         justify-content: space-between;
         align-items: center;
         padding: 10px 20px;
@@ -85,7 +86,6 @@
 
     .contactgegevens p {
         padding: 0 5%;
-        background-color: rgba(128, 128, 128, 0.1);
         align-items: center;
         margin: 0;
     }
