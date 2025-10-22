@@ -63,7 +63,7 @@
 
     .persoonlijke-info {
         display: inline-flex;
-        background-color: rgba(128, 128, 128, 0.1);
+        background-color: rgba(128, 128, 128, 0.2);
         justify-content: space-between;
         align-items: center;
         padding: 10px 20px;
@@ -99,7 +99,7 @@
 
     .beschrijving p {
         padding: 0 5%;
-        background-color: rgba(128, 128, 128, 0.1);
+        background-color: rgba(128, 128, 128, 0.2);
         align-items: center;
         margin: 0;
     }
